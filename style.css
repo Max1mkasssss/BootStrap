@@ -114,3 +114,6 @@ ul{
   align-items: center;
   justify-content: center;
 }
+.btn{ 
+  min-width: 80px !important;
+}
